@@ -118,8 +118,8 @@ _**Restricciones implementadas:**_
 
 ### _mt_pagos_
 
-_Cada moto se identifica mediante una placa única, lo que permite establecer reglas 
-de negocio claras y relaciones bien definidas entre las entidades del sistema._
+_Registra los pagos realizados por los clientes sobre las compras efectuadas. 
+Permite llevar el control de los abonos y el estado financiero de cada venta._
 
 | _**Columna**_    | _**Tipo**_        | _**Descripción**_                     |
 |------------------|-------------------|---------------------------------------|
