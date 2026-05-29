@@ -65,7 +65,7 @@ Puede tratarse tanto de personas naturales como de empresas._
 
 ### _mt_motos_
 
-_Contiene el inventario de motocicletas administrado por el concesionario.
+_Contiene el inventario de motos administrado por el concesionario.
 Cada registro representa una moto física específica, identificada mediante una placa única._
 
 | _**Columna**_         | _**Tipo**_        | _**Descripción**_                      |
@@ -91,7 +91,7 @@ _**Restricciones implementadas:**_
 
 ### _mt_compras_
 
-_Registra las ventas realizadas entre los clientes y las motocicletas disponibles.
+_Registra las ventas realizadas entre los clientes y las motos disponibles.
 Esta tabla constituye el eje central del sistema, ya que conecta la información de clientes con 
 las motos vendidas y permite posteriormente gestionar los pagos asociados a cada transacción._
 
@@ -314,7 +314,7 @@ _Aunque lo mencionamos como una dificultad, cabe destacar que fortalecimos los c
 Las claves primarias, claves foráneas y restricciones de validación demostraron ser herramientas fundamentales para garantizar 
 que la información almacenada fuera consistente y confiable. Otro aprendizaje significativo fue la integración entre Oracle Database y Python mediante Streamlit.
 Esto permitió observar cómo las operaciones realizadas por el usuario en la interfaz se reflejan directamente 
-en la base de datos, simulando el comportamiento de un sistema utilizado en un entorno empresarial real._
+en la base de datos, simulando el comportamiento de un sistema utilizado en un entorno real._
 
 _Finalmente, el proyecto ayudó a desarrollar habilidades complementarias como la organización de archivos, 
 el uso de GitHub para documentar y gestionar el trabajo, y la importancia de mantener una estructura clara 
